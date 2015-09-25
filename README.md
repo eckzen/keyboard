@@ -10,9 +10,9 @@ to highlight Web browser search bar <kbd>Alt</kbd> + <kbd>D</kbd>
 
  1. General Shortcut Keys
 
-<kbd>Alt</kbd> + <kdb>F1</kdb>    Opens the Applications Menu.
+<kbd>Alt</kbd> + <kbd>F1</kbd>    Opens the Applications Menu.
 
-<kdb>Alt</kdb> + <kdb>F2</kdb>    Displays the Run Application dialog.
+<kbd>Alt</kbd> + <kbd>F2</kbd>    Displays the Run Application dialog.
 
 <kbd>Print Screen</kbd>           Takes a screenshot.
 
