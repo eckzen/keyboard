@@ -30,186 +30,82 @@ to highlight Web browser search bar <kbd>Alt</kbd> + <kbd>D</kbd>
 
 <kbd>F1</kbd> Starts the online help browser, and displays appropriate online Help.
 
-2. Window Shortcut Keys
+2. **Window Shortcut Keys**
 
-Alt + Tab
-    
+<kbd>Alt</kbd> + <kbd>Tab</kbd> Switches between windows. When you use these shortcut keys, a list of windows that you can select is displayed. Release the keys to select a window.
 
-Switches between windows. When you use these shortcut keys, a list of windows that you can select is displayed. Release the keys to select a window.
+<kbd>Alt</kbd> + <kbd>Esc</kbd> Switches between windows in reverse order. Release the keys to select a window.
 
-Alt + Esc
-    
+<kbd>F10</kbd> Opens the first menu on the left side of the menubar.
 
-Switches between windows in reverse order. Release the keys to select a window.
+<kbd>Alt</kbd> + <kbd>spacebar</kbd> Opens the Window Menu.
 
-F10
-    
+**Arrow keys** Moves the focus between items in a menu.
 
-Opens the first menu on the left side of the menubar.
+<kbd>Return</kbd> Chooses a menu item.
 
-Alt + spacebar
-    
+<kbd>Esc</kbd> Closes an open menu.
 
-Opens the Window Menu.
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>right arrow</kbd> Switches to the workspace to the right of the current workspace.
 
-Arrow keys
-    
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>left arrow</kbd> Switches to the workspace to the left of the current workspace.
 
-Moves the focus between items in a menu.
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>up arrow</kbd> Switches to the workspace above the current workspace.
 
-Return
-    
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>down arrow</kbd> Switches to the workspace below the current workspace.
 
-Chooses a menu item.
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>d</kbd> Minimizes all windows, and gives focus to the desktop.
 
-Esc
-    
+**When a window has focus, you can increase or decrease the size of the window:**
 
-Closes an open menu.
+<kbd>Alt</kbd> + <kbd>F8</kbd> Start the resize operation.
 
-Ctrl + Alt + right arrow
-    
+<kbd>Arrow keys</kbd>Resize the window in the direction of the arrow key.
 
-Switches to the workspace to the right of the current workspace.
+<kbd>Spacebar</kbd> Complete the resize operation, leaving the window at the current size.
 
-Ctrl + Alt + left arrow
-    
+<kbd>Esc</kbd> Cancel the resize operation, restoring the window to its original size.
 
-Switches to the workspace to the left of the current workspace.
+**Move windows between workspaces:**
 
-Ctrl + Alt + up arrow
-    
-
-Switches to the workspace above the current workspace.
-
-Ctrl + Alt + down arrow
-    
-
-Switches to the workspace below the current workspace.
-
-Ctrl + Alt + d
-    
-
-Minimizes all windows, and gives focus to the desktop.
-
-When a window has focus, you can increase or decrease the size of the window:
-
-Alt + F8
-    
-
-Start the resize operation.
-
-Arrow keys
-    
-
-Resize the window in the direction of the arrow key.
-
-Spacebar
-    
-
-Complete the resize operation, leaving the window at the current size.
-
-Esc
-    
-
-Cancel the resize operation, restoring the window to its original size.
-
-Move windows between workspaces:
-
-Ctrl + Shift + Alt + Arrow key
-    
-
-Use the arrow keys to move windows between workspaces
-
- 
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Arrow key</kbd> Use the arrow keys to move windows between workspaces
 
 3. Panel Shortcut Keys
 
-Ctrl + Alt + Tab
-    
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Tab</kbd> Switches the focus between the panels and the desktop. When you use these shortcut keys, a list of items that you can select is displayed. Release the keys to select an item.
 
-Switches the focus between the panels and the desktop. When you use these shortcut keys, a list of items that you can select is displayed. Release the keys to select an item.
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Esc</kbd> Switches the focus between the panels and the desktop. Release the keys to select an item.
 
-Ctrl + Alt + Esc
-    
+<kbd>Ctrl</kbd> + <kbd>F10</kbd> Opens the popup menu for the selected panel.
 
-Switches the focus between the panels and the desktop. Release the keys to select an item.
+<kbd>Tab</kbd> Switches the focus between objects on a panel.
 
-Ctrl + F10
-    
+<kbd>Return</kbd> Chooses the selected panel object or menu item.
 
-Opens the popup menu for the selected panel.
+<kbd>Shift</kbd> + <kbd>F10</kbd> Opens the popup menu for the selected panel object.
 
-Tab
-    
+<kbd>Arrow keys</kbd> Moves the focus between items in a menu. Moves the focus between interface items in an applet also.
 
-Switches the focus between objects on a panel.
+<kbd>Esc</kbd> Closes an open menu.
 
-Return
-    
-
-Chooses the selected panel object or menu item.
-
-Shift + F10
-    
-
-Opens the popup menu for the selected panel object.
-
-Arrow keys
-    
-
-Moves the focus between items in a menu. Moves the focus between interface items in an applet also.
-
-Esc
-    
-
-Closes an open menu.
-
-F10
-    
-
-Opens the Applications menu from the Menu Bar, if the Menu Bar is in a panel.
+<kbd>F10</kbd> Opens the Applications menu from the Menu Bar, if the Menu Bar is in a panel.
 
  
 
-4. Application Shortcut Keys
+4. **Application Shortcut Keys**
 
-Shortcut Keys
-    
+Shortcut Keys       Command
 
-Command
+<kbd>Ctrl</kbd> + <kbd>N</kbd>    New
 
-Ctrl + N
-    
+<kbd>Ctrl</kbd> + <kbd>X</kbd>    Cut
 
-New
+<kbd>Ctrl</kbd> + <kbd>C</kbd>    Copy
 
-Ctrl + X
-    
+<kbd>Ctrl</kbd> + <kbd>V</kbd>    Paste
 
-Cut
+<kbd>Ctrl</kbd> + <kbd>Z</kbd>    Undo
 
-Ctrl + C
-    
+<kbd>Ctrl</kbd> + <kbd>S</kbd>    Save
 
-Copy
-
-Ctrl + V
-    
-
-Paste
-
-Ctrl + Z
-    
-
-Undo
-
-Ctrl + S
-    
-
-Save
-
-Ctrl + Q
-    
-
-Quit
+<kbd>Ctrl</kbd> + <kbd>Q</kbd>    Quit
