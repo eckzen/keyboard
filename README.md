@@ -1,2 +1,3 @@
-# keyboard
-My keyboard shortcuts
+#My keyboard shortcuts
+
+Launch `Terminal` <kbd>Windows</kbd>+T
