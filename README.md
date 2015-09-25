@@ -1,3 +1,3 @@
 #My keyboard shortcuts
 
-Launch `Terminal` <kbd>Windows</kbd>+T
+Launch **Terminal** <kbd>Windows</kbd> + <kbd>T</kbd>
