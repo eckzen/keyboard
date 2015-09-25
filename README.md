@@ -1,3 +1,5 @@
+Applications > Settings > Keyboard > Application shortcut
+
 #My keyboard shortcuts
 
 Launch **Terminal** <kbd>Windows</kbd> + <kbd>T</kbd>
