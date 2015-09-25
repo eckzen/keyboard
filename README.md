@@ -18,37 +18,17 @@ to highlight Web browser search bar <kbd>Alt</kbd> + <kbd>D</kbd>
 
 <kbd>Alt</kbd> + <kbd>Print Screen</kbd> Takes a screenshot of the window that has focus.
 
-Ctrl + Alt + right arrow
-    
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>right arrow</kbd> Switches to the workspace to the right of the current workspace.
 
-Switches to the workspace to the right of the current workspace.
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>left arrow</kbd> Switches to the workspace to the left of the current workspace.
 
-Ctrl + Alt + left arrow
-    
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>up arrow</kbd> Switches to the workspace above the current workspace.
 
-Switches to the workspace to the left of the current workspace.
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>down arrow</kbd> Switches to the workspace below the current workspace.
 
-Ctrl + Alt + up arrow
-    
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>d</kbd> Minimizes all windows, and gives focus to the desktop.
 
-Switches to the workspace above the current workspace.
-
-Ctrl + Alt + down arrow
-    
-
-Switches to the workspace below the current workspace.
-
-Ctrl + Alt + d
-    
-
-Minimizes all windows, and gives focus to the desktop.
-
-F1
-    
-
-Starts the online help browser, and displays appropriate online Help.
-
- 
+<kbd>F1</kbd> Starts the online help browser, and displays appropriate online Help.
 
 2. Window Shortcut Keys
 
