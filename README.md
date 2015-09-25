@@ -40,7 +40,7 @@ to highlight Web browser search bar <kbd>Alt</kbd> + <kbd>D</kbd>
 
 <kbd>Alt</kbd> + <kbd>spacebar</kbd> Opens the Window Menu.
 
-**Arrow keys** Moves the focus between items in a menu.
+<kbd>Arrow keys</kbd> Moves the focus between items in a menu.
 
 <kbd>Return</kbd> Chooses a menu item.
 
