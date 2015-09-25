@@ -4,7 +4,7 @@ Launch **Terminal** <kbd>Windows</kbd> + <kbd>T</kbd>
 
     gnome-terminal
 
-to highlight Web browser search bar <kbd>Alt</kbd> + <kbd>D</kbd>
+o highlight Web browser search bar <kbd>Alt</kbd> + <kbd>D</kbd>
 
  
 
