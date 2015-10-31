@@ -1,12 +1,24 @@
 Applications > Settings > Keyboard > Application shortcut
+#My keyboard shortcuts for Elementary OS
 
+    
 #My keyboard shortcuts
 
 Launch **Terminal** <kbd>Windows</kbd> + <kbd>T</kbd>
 
     gnome-terminal
 
-o highlight Web browser search bar <kbd>Alt</kbd> + <kbd>D</kbd>
+#Browser
+
+Highlight Web **Browser** search bar 
+
+    <kbd>Alt</kbd> + <kbd>D</kbd>               #To Browser link box
+    <kbd>CTRL</kbd> + <kbd>K</kbd>              #To browser search box
+
+Switch between **browser** tabs
+
+    <kbd>CTRL</kbd> + <kbd>Tab</kbd>
+    <kbd>CTRL</kbd> + <kbd>Shift</kbd> + <kbd>Tab</kbd>
 
  
 
